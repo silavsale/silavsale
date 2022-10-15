@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @silavsale
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Sergiy
+- 👀 I’m interested in web developing
 - 🌱 I’m currently learning cloud and docker
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me on discord my nickname is Qui-Gon Jinn
