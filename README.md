@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Silavsale&count_private=true&theme=dark#gh-dark-mode-only"/>
+<img align="left" width="47%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Silavsale&count_private=true&theme=dark#gh-dark-mode-only"/>
 <img align="left" width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Silavsale&layout=compact&theme=react&"/>
 <br><br><br><br><br><br><br><br><br><br>
 
