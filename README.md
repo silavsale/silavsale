@@ -1,4 +1,4 @@
-<p align="center"><a href="https://silavsale.github.io"><img width="80%" alt="Hello, I'm Sergiy. A Full Stack Web Developer!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="[https://silavsale.github.io](https://github.com/silavsale?tab=repositories)"><img width="80%" alt="Hello, I'm Sergiy. A Full Stack Web Developer!" src="./assets/gh-readme-header.png" /></a></p>
 
 
 
