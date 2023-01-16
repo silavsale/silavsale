@@ -44,7 +44,7 @@
 
 <br><br>
 
-### 💡 ***I get knowledge from books or this websites***
+### 💡 ***I get knowledge from books or this website***
 <img align="left" width="12%"  src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <img align="left" width="12%"  src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 <img align="left" width="19%"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
