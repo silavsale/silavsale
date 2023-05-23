@@ -48,9 +48,6 @@ I'm always learning and updating my skills. Here are some of the platforms I use
 - Stack Overflow ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 - YouTube ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-## 💬 Get in Touch
-
-I'm always open for collaborations and meaningful projects. Reach out to me on [LinkedIn](https://www.linkedin.com/in/sergiy) or [Twitter](https://twitter.com/sergiy).
 
 ### Support My Work
 
